@@ -1,0 +1,19 @@
+Write a Python script that sorts a list of tuples based on the second element in each tuple.
+
+Write a Python script to check if all the elements in a list are unique or not.
+
+Write a Python script that accepts a string and calculates the number of uppercase and lowercase letters.
+
+Write a Python script that takes a list of words and returns the length of the longest word.
+
+Write a Python script that fetches a webpage using the requests library, and extracts all the links in that webpage.
+
+Write a Python script that reads a CSV file and prints out the third column of each row.
+
+Write a Python script that takes an input string and reverses it without using any built-in functions or methods.
+
+Write a Python script that finds the factorial of a number provided by the user.
+
+Write a Python script that merges two dictionaries into one.
+
+Write a Python script that queries an SQL database and retrieves a specific set of data based on certain conditions.
