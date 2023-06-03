@@ -1,0 +1,19 @@
+File Handling: Write a Python script that can read a file, update a specific line, and then write the changes back to the file.
+
+Classes and Objects: Implement a simple bank account class in Python. It should have methods to deposit and withdraw an amount, and also should keep track of the total amount of money in the account.
+
+Data Visualization: Using matplotlib or seaborn, create a Python script that can plot a graph (line chart, bar chart, histogram, etc.) from a given set of data.
+
+Web Scraping: Extend your previous web scraping task to not only get the links from a webpage, but to also fetch some specific data from those linked pages (e.g. headings or paragraphs).
+
+Data Cleaning: Write a Python script that uses pandas to load a CSV file, identify any missing or null data in the file, and then clean the data by either removing the invalid entries or replacing them with valid data.
+
+APIs: Write a Python script that can send a request to a REST API, receive the response, and then parse the JSON response to get some specific data.
+
+Error Handling: Write a Python script where you purposefully raise an exception and then handle it using try/except blocks.
+
+Regular Expressions: Write a Python script that validates user input using regular expressions. For example, check the validity of an email address or phone number.
+
+Multithreading: Write a Python script that downloads several web pages concurrently using multithreading or multiprocessing.
+
+Database Interaction: Write a Python script that inserts data into an SQL database, then update and delete specific entries. Ensure that you have the necessary error handling for situations where the operations may fail.
